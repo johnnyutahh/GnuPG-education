@@ -1,0 +1,19 @@
+// set asciidoc attributes
+:toc:       right
+:toclevels: 5
+:numbered:  1
+:data-uri:  1
+:icons:     font
+
+// source code syntax highlighter
+// see http://bit.ly/2X94vKR for more options
+:source-highlighter: prettify
+
+// dealing with section headers and ID generation
+// make the white-space separator be a '-' (dash)
+:idseparator: -
+// remove the prefix
+:idprefix:
+
+
+Asciidoctor version: {asciidoctor-version}
